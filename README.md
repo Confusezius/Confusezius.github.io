@@ -3,10 +3,10 @@
 ---
 
 ## Quick Links
-* Homepage: https://karroth.com
-* Google Scholar: https://scholar.google.com/citations?user=93ZjIs0AAAAJ
-* LinkedIn: https://www.linkedin.com/in/karsten-roth
-* Github: https://github.com/confusezius
+* [Homepage](https://karroth.com)
+* [Google Scholar](https://scholar.google.com/citations?user=93ZjIs0AAAAJ)
+* [LinkedIn](https://www.linkedin.com/in/karsten-roth)
+* [Github](https://github.com/confusezius)
 
 ---
 
